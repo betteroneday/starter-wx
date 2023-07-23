@@ -9,7 +9,7 @@
 npm install -g starter-wx
 ```
 
-## 使用
+## 使用1
 
 安装完 `starter-wx` 后，你可以在命令行中使用 `starter-wx` 命令来创建新项目。运行以下命令：
 
@@ -27,6 +27,14 @@ starter-wx
 
 ```bash
 cd <你的项目名称>
+```
+
+## 使用2
+
+你也可以在命令行直接写明使用的模板和应用名，将会直接创建：
+
+```bash
+starter-wx ts my-app-name
 ```
 
 ## 反馈
