@@ -1,6 +1,7 @@
 export const templates = {
   'ts': 'antfu/starter-ts',
-  'vue2': 'antfu/vue2',
   'vue3': 'antfu/vitesse',
-  'nuxt3': 'antfu/nuxt3'
+  'vue3-lite': 'antfu/vitesse-lite',
+  'nuxt3': 'antfu/vitesse-nuxt3',
+  'webExtension': 'antfu/vitesse-webext'
 };
