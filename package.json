@@ -8,6 +8,7 @@
     "starter-wx": "./index.js"
   },
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,5 +17,8 @@
   "dependencies": {
     "degit": "^2.8.4",
     "inquirer": "^9.2.8"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
