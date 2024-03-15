@@ -1,4 +1,11 @@
 
+### [1.1.1](https://ssh.github.com:443/betteroneday/starter-wx/compare/v1.1.0...v1.1.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* 修改changelog ([acd63b9](https://ssh.github.com:443/betteroneday/starter-wx/commit/acd63b946ef47337202df6a38b60f68464285004))
+
 ## 1.1.0 (2024-03-15)
 
 
