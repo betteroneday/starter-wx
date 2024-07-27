@@ -1,4 +1,11 @@
 
+## [1.2.0](https://ssh.github.com:443/betteroneday/starter-wx/compare/v1.1.1...v1.2.0) (2024-07-27)
+
+
+### Features
+
+* 添加vitesse-uni-app模板 ([5afe135](https://ssh.github.com:443/betteroneday/starter-wx/commit/5afe1356ae9a4cf1ae692ac262423eda46827225))
+
 ### [1.1.1](https://ssh.github.com:443/betteroneday/starter-wx/compare/v1.1.0...v1.1.1) (2024-03-15)
 
 
