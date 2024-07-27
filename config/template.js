@@ -5,4 +5,5 @@ export const templates = {
   'nuxt3': 'antfu/vitesse-nuxt3',
   'webExtension': 'antfu/vitesse-webext',
   'uniapp-vue3': 'MellowCo/uni-vue3-starter',
+  "vitesse-uni-app": 'uni-helper/vitesse-uni-app'
 };
